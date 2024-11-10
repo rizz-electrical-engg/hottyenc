@@ -127,12 +127,12 @@ async def start(event, args, client):
             [Button.inline("Help", data="ihelp")],
             [
                 Button.url(
-                    "Source-Code (Original)",
-                    url="github.com/1Danish-00/compressorqueue",
+                    "🌨️Shop",
+                    url="https://t.me/vpsrdpdomainshop",
                 ),
-                Button.url("Developer (Original)", url="t.me/danish_00"),
+                Button.url("🦉", url="https://t.me/aboutRizzx"),
             ],
-            [Button.url("Fork Maintainer", url="t.me/Col_serra")],
+            [Button.url("🌋Machine", url="https://t.me/Noctophile")],
         ],
     )
 
@@ -180,12 +180,12 @@ async def beck(event):
             [Button.inline("Help", data="ihelp")],
             [
                 Button.url(
-                    "Source-Code (Original)",
-                    url="github.com/1Danish-00/compressorqueue",
+                    "🌨️Shop",
+                    url="https://t.me/vpsrdpdomainshop",
                 ),
-                Button.url("Developer (Original)", url="t.me/danish_00"),
+                Button.url("🦉", url="https://t.me/aboutRizzx"),
             ],
-            [Button.url("Fork Maintainer", url="t.me/Col_serra")],
+            [Button.url("🌋Machine", url="https://t.me/Noctophile")],
         ],
     )
 
